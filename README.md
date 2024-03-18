@@ -1,6 +1,6 @@
 # NLP-Medical-Papers
 
-classify the medical papers into categories (background, results, conclusions, etc)
+classify the medical papers into categories (background, results, conclusions, etc) - Multi Classification
 
 models used : combined model (Universal Sentence Encoder + Bidirectional LSTM + ANN)  
  
