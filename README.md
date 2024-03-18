@@ -1,5 +1,7 @@
 # NLP-Medical-Papers
 
+kaggle : https://www.kaggle.com/code/bebekjk/skimlit
+
 classify the medical papers into categories (background, results, conclusions, etc) - Multi Classification
 
 models used : combined model (Universal Sentence Encoder + Bidirectional LSTM + ANN)  
